@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Promotional.css */
+
+.carousel-container {
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+
+.carousel-container::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Opera */
+}
+
+.carousel-container:hover {
+  scrollbar-width: auto; /* For Firefox */
+}
+
+.carousel-container:hover::-webkit-scrollbar {
+  display: block; /* For Chrome, Safari, and Opera */
+  height: 14px;
+}
+
+.carousel-container:hover::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+@font-face {
+  font-family: "miland";
+  src: url("./assets/Miland.otf") format("truetype");
+}
