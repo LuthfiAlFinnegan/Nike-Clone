@@ -1,8 +1,15 @@
-# React + Vite
+# Nike landing page clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nike Landing Page Clone
+This repository contains a clone of the Nike landing page, focusing on replicating the visual design and layout using modern front-end technologies.
 
-Currently, two official plugins are available:
+Features
+Responsive UI: The design is fully responsive, ensuring that it looks great on various screen sizes, from desktop to mobile.
+Tailwind CSS: Used for efficient and scalable styling, allowing for easy customization of the UI components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+
+React: For building the component-based user interface.
+Vite: For fast development with Hot Module Replacement (HMR).
+Tailwind CSS: For utility-first CSS styling.
+
