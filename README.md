@@ -14,3 +14,6 @@ React: For building the component-based user interface.
 Vite: For fast development with Hot Module Replacement (HMR).
 Tailwind CSS: For utility-first CSS styling.
 
+## Live Demo
+
+You can view the live demo of this project at [https://luthfialfinnegan.github.io/Nike-Clone/](https://luthfialfinnegan.github.io/Nike-Clone/).
