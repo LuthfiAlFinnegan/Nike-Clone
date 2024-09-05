@@ -11,7 +11,7 @@ function App() {
         element: <NotFoundPage />,
       },
     ],
-    { basename: "Nike-Clone" },
+    { basename: "/Nike-Clone" },
   );
   return (
     <>
